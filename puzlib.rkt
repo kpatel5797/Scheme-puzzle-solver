@@ -1,11 +1,5 @@
 #lang racket
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; puzlib :: A module to provide useful helper functions for 
-;;           CS 135, Fall 2015, Assignment 10 
-;;           by Dave Tompkins [dtompkins]
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
 (provide read-puzzle solve disp lists-equiv? unused-cell empty-cell)
 
 ;; read-puzzle: read in a puzzle file
